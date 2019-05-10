@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\thread.o
+./debug\radiatrueshow.o
+./debug\qcustomplot.o
+./debug\execelengin1.o
+./debug\myspeed.o
+./debug\about.o
+./debug\qrc_pic.o
+./debug\moc_mainwindow.o
+./debug\moc_thread.o
+./debug\moc_radiatrueshow.o
+./debug\moc_qcustomplot.o
+./debug\moc_myspeed.o
+./debug\moc_about.o
+);

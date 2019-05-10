@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\thread.o
+./release\radiatrueshow.o
+./release\qcustomplot.o
+./release\execelengin1.o
+./release\myspeed.o
+./release\about.o
+./release\qrc_pic.o
+./release\moc_mainwindow.o
+./release\moc_thread.o
+./release\moc_radiatrueshow.o
+./release\moc_qcustomplot.o
+./release\moc_myspeed.o
+./release\moc_about.o
+);
